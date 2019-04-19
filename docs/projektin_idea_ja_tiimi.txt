@@ -1,2 +1,3 @@
-Heipä hei -Ville Kuivamäki
-
+Olemme Kevättä rinnassa-tiimi
+Jäsenet: Janina Porkka, Ville Kuivamäki, Nuutti Reen ja Irina Ylänne
+Mitä teemme: Ryhmämme tekee yhteistyössä ohjelmistotuotanto ryhmän kanssa kyselyn yleisesti Moodle oppimisalustasta, sen toimivuudesta ja toiminnoista.
